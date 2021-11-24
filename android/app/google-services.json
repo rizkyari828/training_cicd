@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361242166069",
+    "project_id": "training-309ea",
+    "storage_bucket": "training-309ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361242166069:android:6569394ee48c064a79427c",
+        "android_client_info": {
+          "package_name": "com.example.training_day2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361242166069-gjg24nbe8jmr2984osgrs5kmll5bcom7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcICVV7QpUPli_XhaqlgvJnUPpQs5IVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361242166069-gjg24nbe8jmr2984osgrs5kmll5bcom7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
